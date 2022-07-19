@@ -5,3 +5,5 @@ export const Exercises = () => {
     <div>Exercises</div>
   )
 }
+
+export default Exercises
